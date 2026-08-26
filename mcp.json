@@ -1,0 +1,6 @@
+{
+  "name": "ai-influencer-generator-mcp",
+  "command": "python",
+  "args": ["C:/Users/Deglu/.hermes/tools/AI-Influencer-Generator/mcp_server.py"],
+  "env": {}
+}
